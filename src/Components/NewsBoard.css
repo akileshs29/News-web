@@ -1,0 +1,44 @@
+.text-center{
+    position:static;
+}
+.container {
+    padding-bottom: 4rem; /* Adjust this value based on the height of your footer */
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  .badge {
+    background-color: red;
+    color: white;
+    padding: 0.5rem;
+    border-radius: 0.25rem;
+  }
+  
+  .news-item {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    margin: 1rem 0;
+  }
+  
+  .news-image {
+    width: 100%;
+    height: auto;
+  }
+  
+  .footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #f8f9fa;
+    border-top: 1px solid #e9ecef;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+  }
+  
+  .error {
+    color: red;
+    text-align: center;
+  }
+  
